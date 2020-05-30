@@ -1,0 +1,5 @@
+__pycache__/
+build/
+dist/
+gen_pdf_gui.spec
+
