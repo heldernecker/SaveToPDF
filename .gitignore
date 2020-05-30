@@ -3,3 +3,4 @@ build/
 dist/
 gen_pdf_gui.spec
 
+*.pdf
